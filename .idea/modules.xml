@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Comportamentais.iml" filepath="$PROJECT_DIR$/Comportamentais/Comportamentais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns-Java.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Estruturais.iml" filepath="$PROJECT_DIR$/Estruturais/Estruturais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/abstract-factory/abstract-factory.iml" filepath="$PROJECT_DIR$/Criacionais/abstract-factory/abstract-factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/criacionais/criacionais.iml" filepath="$PROJECT_DIR$/criacionais/criacionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" />
     </modules>
   </component>
 </project>

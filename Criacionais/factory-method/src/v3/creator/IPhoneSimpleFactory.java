@@ -1,6 +1,6 @@
-package factory.method.v3.creator;
+package v3.creator;
 
-import factory.method.v3.product.*;
+import v3.product.*;
 
 public class IPhoneSimpleFactory {
     public static IPhone orderIPhone(String generation, String level) {

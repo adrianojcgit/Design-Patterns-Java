@@ -1,10 +1,10 @@
-package factory.method.v3.product;
+package v2.product;
 
 public abstract class IPhone {
     public abstract void getHardware();
 
     public void assemble() {
-        System.out.println("Assembling all the hardware");
+        System.out.println("Assembling all the hardwares");
     }
 
     public void certificates() {

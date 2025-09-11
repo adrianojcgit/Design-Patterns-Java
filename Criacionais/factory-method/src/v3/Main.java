@@ -1,7 +1,7 @@
-package factory.method.v3;
+package v3;
 
-import factory.method.v3.creator.IPhoneSimpleFactory;
-import factory.method.v3.product.IPhone;
+import v3.creator.IPhoneSimpleFactory;
+import v3.product.IPhone;
 
 public class Main {
     public static void main(String[] args) {
