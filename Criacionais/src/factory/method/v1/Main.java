@@ -1,7 +1,7 @@
 package factory.method.v1;
 
-import factory.method.v1.factory.*;
-import factory.method.v1.model.IPhone;
+import factory.method.v1.creator.*;
+import factory.method.v1.product.IPhone;
 
 public class Main {
     public static void main(String[] args) {
