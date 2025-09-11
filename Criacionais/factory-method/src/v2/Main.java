@@ -1,14 +1,12 @@
-import factory.method.v2.creator.IPhone11Factory;
-import factory.method.v2.creator.IPhoneFactory;
-import factory.method.v2.creator.IPhoneXFactory;
-import factory.method.v2.product.IPhone;
+package v2;
+
+import v2.creator.IPhone11Factory;
+import v2.creator.IPhoneFactory;
+import v2.creator.IPhoneXFactory;
+import v2.product.IPhone;
 
 public class Main {
     public static void main(String[] args) {
-        v2();
-    }
-
-    static void v2(){
         IPhoneFactory genXFactory = new IPhoneXFactory();
         IPhoneFactory gen11Factory = new IPhone11Factory();
 
