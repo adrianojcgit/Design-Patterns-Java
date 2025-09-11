@@ -1,4 +1,4 @@
-package factory.method.v2.model;
+package factory.method.v2.product;
 
 public class IPhoneXSMax extends IPhone {
     @Override

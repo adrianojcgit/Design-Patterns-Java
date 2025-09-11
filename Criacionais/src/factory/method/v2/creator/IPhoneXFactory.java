@@ -1,8 +1,8 @@
-package factory.method.v2.factory;
+package factory.method.v2.creator;
 
-import factory.method.v2.model.IPhone;
-import factory.method.v2.model.IPhoneX;
-import factory.method.v2.model.IPhoneXSMax;
+import factory.method.v2.product.IPhone;
+import factory.method.v2.product.IPhoneX;
+import factory.method.v2.product.IPhoneXSMax;
 
 public class IPhoneXFactory extends IPhoneFactory{
     @Override

@@ -1,4 +1,4 @@
-package factory.method.v1.model;
+package factory.method.v1.product;
 
 public class IPhone11 extends IPhone {
     @Override

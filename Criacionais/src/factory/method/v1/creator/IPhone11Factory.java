@@ -1,7 +1,7 @@
-package factory.method.v1.factory;
+package factory.method.v1.creator;
 
-import factory.method.v1.model.IPhone;
-import factory.method.v1.model.IPhone11;
+import factory.method.v1.product.IPhone;
+import factory.method.v1.product.IPhone11;
 
 public class IPhone11Factory extends IPhoneFactory {
     public IPhone createIPhone() {

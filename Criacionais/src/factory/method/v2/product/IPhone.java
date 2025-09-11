@@ -1,4 +1,4 @@
-package factory.method.v1.model;
+package factory.method.v2.product;
 
 public abstract class IPhone {
     public abstract void getHardware();

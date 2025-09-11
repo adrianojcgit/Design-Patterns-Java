@@ -1,6 +1,6 @@
-package factory.method.v2.factory;
+package factory.method.v2.creator;
 
-import factory.method.v2.model.IPhone;
+import factory.method.v2.product.IPhone;
 
 public abstract class IPhoneFactory {
 

@@ -1,7 +1,6 @@
-package factory.method.v1.model;
+package factory.method.v2.product;
 
 public class IPhoneX extends IPhone {
-
     @Override
     public void getHardware() {
         System.out.println("Hardware list");
