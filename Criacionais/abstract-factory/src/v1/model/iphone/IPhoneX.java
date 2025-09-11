@@ -1,6 +1,11 @@
-package factory.method.v1.product;
+package v1.model.iphone;
 
-public class IPhoneX extends IPhone {
+import v1.factory.abstractFactory.CountryRulesAbstractFactory;
+
+public class IPhoneX extends IPhone{
+    public IPhoneX(CountryRulesAbstractFactory rules) {
+        super(rules);
+    }
 
     @Override
     public void getHardware() {

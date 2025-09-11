@@ -1,6 +1,12 @@
-package factory.method.v1.product;
+package v1.model.iphone;
 
-public class IPhone11Pro extends IPhone {
+import v1.factory.abstractFactory.CountryRulesAbstractFactory;
+
+public class IPhone11Pro extends IPhone{
+    public IPhone11Pro(CountryRulesAbstractFactory rules) {
+        super(rules);
+    }
+
     @Override
     public void getHardware() {
         System.out.println("Hardware list");

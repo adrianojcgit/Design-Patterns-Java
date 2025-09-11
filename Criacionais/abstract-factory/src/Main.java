@@ -1,15 +1,22 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import v1.factory.IPhone11Factory;
+import v1.factory.IPhoneFactory;
+import v1.factory.IPhoneXFactory;
+import v1.factory.abstractFactory.BrazilianRulesAbstractFactory;
+import v1.factory.abstractFactory.CountryRulesAbstractFactory;
+import v1.model.iphone.IPhone;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        CountryRulesAbstractFactory rules = new BrazilianRulesAbstractFactory();
+        IPhoneFactory genXFactory = new IPhoneXFactory(rules);
+        IPhoneFactory gen11Factory = new IPhone11Factory(rules);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        System.out.println("### Ordering an iPhone X");
+        IPhone iphone = genXFactory.orderIPhone("standard");
+        System.out.println(iphone);
+
+        System.out.println("\n\n### Ordering an iPhone 11 HighEnd");
+        IPhone iphone2 = gen11Factory.orderIPhone("highEnd");
+        System.out.println(iphone2);
     }
 }
