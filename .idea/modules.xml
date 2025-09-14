@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Criacionais/abstract-factory/abstract-factory.iml" filepath="$PROJECT_DIR$/Criacionais/abstract-factory/abstract-factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/criacionais/criacionais.iml" filepath="$PROJECT_DIR$/criacionais/criacionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/singleton/singleton.iml" filepath="$PROJECT_DIR$/Criacionais/singleton/singleton.iml" />
     </modules>
   </component>
 </project>
