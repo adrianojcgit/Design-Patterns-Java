@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/monostate/monostate.iml" filepath="$PROJECT_DIR$/Criacionais/monostate/monostate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/prototype/prototype.iml" filepath="$PROJECT_DIR$/Criacionais/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/prototype/prototype-clone-builder/prototype-clone-builder.iml" filepath="$PROJECT_DIR$/Criacionais/prototype/prototype-clone-builder/prototype-clone-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/prototype/prototype-deep-shallow/prototype-deep-shallow.iml" filepath="$PROJECT_DIR$/Criacionais/prototype/prototype-deep-shallow/prototype-deep-shallow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/prototype/prototype-gof/prototype-gof.iml" filepath="$PROJECT_DIR$/Criacionais/prototype/prototype-gof/prototype-gof.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/singleton/singleton.iml" filepath="$PROJECT_DIR$/Criacionais/singleton/singleton.iml" />
