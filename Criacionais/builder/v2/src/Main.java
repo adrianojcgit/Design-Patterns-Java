@@ -1,15 +1,25 @@
+import builder.FastFoodMealBuilder;
+import model.FastFoodMeal;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        FastFoodMeal burguerCombo = new FastFoodMealBuilder("Fries")
+                .andMain("CheeseBurger")
+                .forDrink("Code")
+                .thatsAll();
+        System.out.println(burguerCombo);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        FastFoodMeal justFries = new FastFoodMealBuilder("Fries").thatsAll();
+        System.out.println(justFries);
+
+        FastFoodMeal heartAtackCombo = new FastFoodMealBuilder("Large Fries")
+                .andMain("Monster Burguer")
+                .forDrink("Milk Shake")
+                .andDessert("Fudge Cake")
+                .andGift("2 Kilograms")
+                .thatsAll();
+        System.out.println(heartAtackCombo);
     }
 }
