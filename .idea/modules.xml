@@ -11,9 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/monostate/monostate.iml" filepath="$PROJECT_DIR$/Criacionais/monostate/monostate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/singleton/singleton.iml" filepath="$PROJECT_DIR$/Criacionais/singleton/singleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/v1/v1.iml" filepath="$PROJECT_DIR$/Criacionais/builder/v1/v1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/v2/v2.iml" filepath="$PROJECT_DIR$/Criacionais/builder/v2/v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/v3/v3.iml" filepath="$PROJECT_DIR$/Criacionais/builder/v3/v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_fluent_meal/standard_fluent_meal.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_fluent_meal/standard_fluent_meal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_gof_meal/standard_gof_meal.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_gof_meal/standard_gof_meal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_gof_spolleto/standard_gof_spolleto.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_gof_spolleto/standard_gof_spolleto.iml" />
     </modules>
   </component>
 </project>
