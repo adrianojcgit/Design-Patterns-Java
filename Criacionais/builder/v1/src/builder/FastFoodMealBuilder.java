@@ -13,9 +13,9 @@ public abstract class FastFoodMealBuilder {
         return meal;
     }
 
-    public abstract void buildDrink();
-    public abstract void buildMain();
-    public abstract void buildSide();
-    public abstract void buildDessert();
-    public abstract void buildGift();
+    public void buildDrink() {}
+    public void buildMain() {}
+    public void buildSide() {}
+    public void buildDessert() {}
+    public void buildGift() {}
 }
