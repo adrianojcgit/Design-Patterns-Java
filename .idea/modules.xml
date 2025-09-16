@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/builder.iml" filepath="$PROJECT_DIR$/Criacionais/builder/builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/criacionais/criacionais.iml" filepath="$PROJECT_DIR$/criacionais/criacionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/Criacionais/factory-method/factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturais/hexagonal/hexagonal.iml" filepath="$PROJECT_DIR$/Estruturais/hexagonal/hexagonal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/monostate/monostate.iml" filepath="$PROJECT_DIR$/Criacionais/monostate/monostate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/prototype/prototype.iml" filepath="$PROJECT_DIR$/Criacionais/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/prototype/prototype-clone-builder/prototype-clone-builder.iml" filepath="$PROJECT_DIR$/Criacionais/prototype/prototype-clone-builder/prototype-clone-builder.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_fluent_meal/standard_fluent_meal.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_fluent_meal/standard_fluent_meal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_gof_meal/standard_gof_meal.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_gof_meal/standard_gof_meal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_gof_spolleto/standard_gof_spolleto.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_gof_spolleto/standard_gof_spolleto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturais/tvPort/tvPort.iml" filepath="$PROJECT_DIR$/Estruturais/tvPort/tvPort.iml" />
     </modules>
   </component>
 </project>
