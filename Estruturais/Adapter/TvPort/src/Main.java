@@ -3,15 +3,16 @@ import adapters.HDMIToVGAAdapter;
 import devices.Computer;
 import devices.OldMonitor;
 import devices.TV;
-
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-       Computer pc = new Computer();
-       TV tv = new TV();
-       pc.connectPort(tv);
-       pc.sendImageAndSound("Cat and rainbow", "Nyan cat song");
+        Computer pc = new Computer();
+        TV tv = new TV();
+        pc.connectPort(tv);
+        pc.sendImageAndSound("Cat and rainbow", "Nyan cat song");
 
-       System.out.println("------ Monitor ----------");
+        System.out.println("------ Monitor ----------");
 
         Computer pc2 = new Computer();
         OldMonitor monitor = new OldMonitor();
