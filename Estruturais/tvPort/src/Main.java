@@ -1,3 +1,4 @@
+import adapters.HDMIToOldMonitorAdapter;
 import adapters.HDMIToVGAAdapter;
 import devices.Computer;
 import devices.OldMonitor;
@@ -19,6 +20,10 @@ public class Main {
         pc2.sendImageAndSound("Cat and rainbow", "Nyan cat song");
 
         System.out.println("------ Monitor Class Adapter ----------");
-        
+
+        Computer pc3 = new Computer();
+        HDMIToOldMonitorAdapter monitorAdaptee = new HDMIToOldMonitorAdapter();
+        pc3.connectPort(monitorAdaptee);
+        pc3.sendImageAndSound("Cat and rainbow", "Nyan cat song");
     }
 }
