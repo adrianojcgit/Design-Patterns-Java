@@ -1,9 +1,11 @@
-import CoofeeShop.model.Drink;
-import CoofeeShop.model.Expresso;
-import CoofeeShop.model.Tea;
-import CoofeeShop.model.decorators.DoubleDrink;
-import CoofeeShop.model.decorators.Milk;
+import model.Drink;
+import model.Expresso;
+import model.Tea;
+import model.decorators.DoubleDrink;
+import model.decorators.Milk;
 
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         order("Expresso", new Expresso());

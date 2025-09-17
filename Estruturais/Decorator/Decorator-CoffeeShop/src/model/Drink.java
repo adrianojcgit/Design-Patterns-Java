@@ -1,4 +1,4 @@
-package CoofeeShop.model;
+package model;
 
 public interface Drink {
     void serve();
