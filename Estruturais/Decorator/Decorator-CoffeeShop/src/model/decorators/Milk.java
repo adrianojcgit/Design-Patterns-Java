@@ -1,6 +1,7 @@
-package CoofeeShop.model.decorators;
+package model.decorators;
 
-import CoofeeShop.model.Drink;
+
+import model.Drink;
 
 public class Milk  extends DrinkDecorator{
 

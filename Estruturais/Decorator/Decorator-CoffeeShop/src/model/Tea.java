@@ -1,4 +1,4 @@
-package CoofeeShop.model;
+package model;
 
 public class Tea  implements Drink{
     @Override

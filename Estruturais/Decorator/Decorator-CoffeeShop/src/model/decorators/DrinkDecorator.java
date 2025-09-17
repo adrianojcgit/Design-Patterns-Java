@@ -1,6 +1,6 @@
-package CoofeeShop.model.decorators;
+package model.decorators;
 
-import CoofeeShop.model.Drink;
+import model.Drink;
 
 public abstract class DrinkDecorator  implements Drink {
     protected Drink drink;

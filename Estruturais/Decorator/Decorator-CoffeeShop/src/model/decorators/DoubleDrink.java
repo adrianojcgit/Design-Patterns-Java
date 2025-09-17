@@ -1,6 +1,6 @@
-package CoofeeShop.model.decorators;
+package model.decorators;
 
-import CoofeeShop.model.Drink;
+import model.Drink;
 
 public class DoubleDrink extends DrinkDecorator {
     public DoubleDrink(Drink drink) {
