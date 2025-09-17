@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Estruturais/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturais/Bridge/Backend/Backend.iml" filepath="$PROJECT_DIR$/Estruturais/Bridge/Backend/Backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Estruturais/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Comportamentais.iml" filepath="$PROJECT_DIR$/Comportamentais/Comportamentais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Bridge/Converter/Converter.iml" filepath="$PROJECT_DIR$/Estruturais/Bridge/Converter/Converter.iml" />
