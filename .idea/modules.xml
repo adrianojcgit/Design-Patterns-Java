@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Estruturais/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Bridge/Backend/Backend.iml" filepath="$PROJECT_DIR$/Estruturais/Bridge/Backend/Backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Estruturais/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturais/Facade/CallCenter/CallCenter.iml" filepath="$PROJECT_DIR$/Estruturais/Facade/CallCenter/CallCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Comportamentais.iml" filepath="$PROJECT_DIR$/Comportamentais/Comportamentais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Composite/Composite.iml" filepath="$PROJECT_DIR$/Estruturais/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Bridge/Converter/Converter.iml" filepath="$PROJECT_DIR$/Estruturais/Bridge/Converter/Converter.iml" />
@@ -13,8 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Decorator/Decorator-Swing/Decorator-Swing.iml" filepath="$PROJECT_DIR$/Estruturais/Decorator/Decorator-Swing/Decorator-Swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns-Java.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Estruturais.iml" filepath="$PROJECT_DIR$/Estruturais/Estruturais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturais/Facade/Facade.iml" filepath="$PROJECT_DIR$/Estruturais/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Composite/Folders/Folders.iml" filepath="$PROJECT_DIR$/Estruturais/Composite/Folders/Folders.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Adapter/Hexagonal/Hexagonal.iml" filepath="$PROJECT_DIR$/Estruturais/Adapter/Hexagonal/Hexagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturais/Facade/Isolated/Isolated.iml" filepath="$PROJECT_DIR$/Estruturais/Facade/Isolated/Isolated.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Composite/Swing/Swing.iml" filepath="$PROJECT_DIR$/Estruturais/Composite/Swing/Swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Adapter/TvPort/TvPort.iml" filepath="$PROJECT_DIR$/Estruturais/Adapter/TvPort/TvPort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/abstract-factory/abstract-factory.iml" filepath="$PROJECT_DIR$/Criacionais/abstract-factory/abstract-factory.iml" />
