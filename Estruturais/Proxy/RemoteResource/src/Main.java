@@ -1,15 +1,34 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+import services.Resource;
+import services.ResourceImpl;
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Date;
+
+public class Main {
+    public static void main(String[] args)  throws InterruptedException, IOException {
+//		Resource resource = new ResourceProxy("v@lid!");
+//		Resource resource = new ResourceProxy("Inv@lid!");
+        Resource resource = new ResourceImpl();
+
+        BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
+        boolean exit = false;
+        while(true) {
+            System.out.print("This is your options?:\n\t1-Current date"
+                    + "\n\t...Other Options\n\t9-Get Resource's data"
+                    + "\n\t0-Exit\nWhat do you want? ");
+            String option = buffer.readLine();
+            System.out.println("\n\n");
+            switch (option) {
+                case "1": System.out.println(new Date()); break;
+                case "9": System.out.println(resource.getData()); break;
+                case "0": exit = true; break;
+                default: System.out.println("Processing other options"); break;
+            }
+            System.out.println("\n\n");
+            if(exit) break;
         }
+        System.out.println("Bye!");
     }
 }
