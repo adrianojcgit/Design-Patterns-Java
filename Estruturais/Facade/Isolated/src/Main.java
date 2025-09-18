@@ -1,15 +1,20 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import facade.CallCenterFacade;
+import facade.CallCenterNewCardFacade;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
-
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        CallCenterFacade facade = new CallCenterFacade();
+        CallCenterNewCardFacade newFacade = new CallCenterNewCardFacade();
+        Long userNumber = 123456L;
+        Long cardNumber = facade.getCardByUser(userNumber);
+        System.out.println(cardNumber);
+        facade.getSumary(cardNumber);
+        facade.getPaymentInfoByCard(cardNumber);
+        newFacade.cancelLastRegister(userNumber);
+        Long newCardNumber = facade.getCardByUser(userNumber);
+        System.out.println(newCardNumber);
+        newFacade.orderNewCard(userNumber);
+        Long newNewCardNumber = facade.getCardByUser(userNumber);
+        System.out.println(newNewCardNumber);
     }
 }
