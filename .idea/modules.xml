@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Facade/Isolated/Isolated.iml" filepath="$PROJECT_DIR$/Estruturais/Facade/Isolated/Isolated.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/FlyWeight/Map/Map.iml" filepath="$PROJECT_DIR$/Estruturais/FlyWeight/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/FlyWeight/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/Estruturais/FlyWeight/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentais/ChainOfResponsability/Process/Process.iml" filepath="$PROJECT_DIR$/Comportamentais/ChainOfResponsability/Process/Process.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Estruturais/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Proxy/RemoteResource/RemoteResource.iml" filepath="$PROJECT_DIR$/Estruturais/Proxy/RemoteResource/RemoteResource.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Composite/Swing/Swing.iml" filepath="$PROJECT_DIR$/Estruturais/Composite/Swing/Swing.iml" />
