@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/Estruturais/FlyWeight/Map/Map.iml" filepath="$PROJECT_DIR$/Estruturais/FlyWeight/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/Comportamentais/Mediator/Mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Mediator/MediatorSwing/MediatorSwing.iml" filepath="$PROJECT_DIR$/Comportamentais/Mediator/MediatorSwing/MediatorSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentais/Mediator/MediatorTranslate/MediatorTranslate.iml" filepath="$PROJECT_DIR$/Comportamentais/Mediator/MediatorTranslate/MediatorTranslate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Memento/Memento.iml" filepath="$PROJECT_DIR$/Comportamentais/Memento/Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Command/Migration/Migration.iml" filepath="$PROJECT_DIR$/Comportamentais/Command/Migration/Migration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/FlyWeight/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/Estruturais/FlyWeight/MusicPlayer/MusicPlayer.iml" />
