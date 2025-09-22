@@ -33,6 +33,8 @@
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Memento/Memento.iml" filepath="$PROJECT_DIR$/Comportamentais/Memento/Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Command/Migration/Migration.iml" filepath="$PROJECT_DIR$/Comportamentais/Command/Migration/Migration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/FlyWeight/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/Estruturais/FlyWeight/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentais/Observer/Observer.iml" filepath="$PROJECT_DIR$/Comportamentais/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentais/Observer/Party/Party.iml" filepath="$PROJECT_DIR$/Comportamentais/Observer/Party/Party.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/ChainOfResponsability/Process/Process.iml" filepath="$PROJECT_DIR$/Comportamentais/ChainOfResponsability/Process/Process.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Estruturais/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Proxy/RemoteResource/RemoteResource.iml" filepath="$PROJECT_DIR$/Estruturais/Proxy/RemoteResource/RemoteResource.iml" />
