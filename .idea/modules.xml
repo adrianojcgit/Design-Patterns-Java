@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Composite/Folders/Folders.iml" filepath="$PROJECT_DIR$/Estruturais/Composite/Folders/Folders.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Adapter/Hexagonal/Hexagonal.iml" filepath="$PROJECT_DIR$/Estruturais/Adapter/Hexagonal/Hexagonal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/Facade/Isolated/Isolated.iml" filepath="$PROJECT_DIR$/Estruturais/Facade/Isolated/Isolated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentais/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Comportamentais/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturais/FlyWeight/Map/Map.iml" filepath="$PROJECT_DIR$/Estruturais/FlyWeight/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Memento/Memento.iml" filepath="$PROJECT_DIR$/Comportamentais/Memento/Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comportamentais/Command/Migration/Migration.iml" filepath="$PROJECT_DIR$/Comportamentais/Command/Migration/Migration.iml" />
@@ -47,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_fluent_meal/standard_fluent_meal.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_fluent_meal/standard_fluent_meal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_gof_meal/standard_gof_meal.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_gof_meal/standard_gof_meal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criacionais/builder/standard_gof_spolleto/standard_gof_spolleto.iml" filepath="$PROJECT_DIR$/Criacionais/builder/standard_gof_spolleto/standard_gof_spolleto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comportamentais/Iterator/tvChannel/tvChannel.iml" filepath="$PROJECT_DIR$/Comportamentais/Iterator/tvChannel/tvChannel.iml" />
     </modules>
   </component>
 </project>
